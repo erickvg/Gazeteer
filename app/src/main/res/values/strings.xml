@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gazeteer</string>
+    <string name="no_search">add words to begin search</string>
+    <string name="no_connection">No internet Conncection could be found</string>
+</resources>
